@@ -1,5 +1,6 @@
 ---
 title: This is a test by Malcolm
+layout: post
 ---
 
 # January 2016
